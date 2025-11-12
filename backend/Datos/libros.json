@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "precio": 150,
+        "stock": 10,
+        "imagen": "principito.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "autor": "George Orwell", 
+        "precio": 180,
+        "stock": 8,
+        "imagen": "1984.jpg"
+    }
+]
